@@ -54,8 +54,8 @@ The application simulates a real interview environment, allowing users to build 
 
 1.  Clone the repository:
     ```sh
-    git clone https://github.com/Piyushkharapkar/interviewace.git
-    cd interviewace/backend
+    git clone https://github.com/Dhanu2007-G/AI-powered-mock-interviewer.git
+    cd AI-powered-mock-interviewer/backend
     ```
 2.  Configure your `application.properties` file:
       * Navigate to `src/main/resources/application.properties`.
@@ -80,7 +80,7 @@ The application simulates a real interview environment, allowing users to build 
 3.  Build and run the application using Maven:
     ```sh
     mvn clean install
-    java -jar target/interviewace-backend-0.0.1-SNAPSHOT.jar
+    java -jar target/AI-powered-mock-interviewer-backend-0.0.1-SNAPSHOT.jar
     ```
 
 ### 2\. Frontend Setup
